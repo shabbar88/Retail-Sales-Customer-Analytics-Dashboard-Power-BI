@@ -168,19 +168,25 @@ This dashboard enables organizations to:
 ## 📷 Dashboard Preview
 
 ### Executive Overview
-_Add dashboard screenshot here_
+
+<img width="1304" height="738" alt="myexecutive" src="https://github.com/user-attachments/assets/aeec8d7e-9ecb-4129-b245-9f63890b2213" />
+
 
 ### Product Analytics
-_Add dashboard screenshot here_
+<img width="1309" height="726" alt="myproduct" src="https://github.com/user-attachments/assets/37d73652-dbfa-4ffc-b1f0-1092261d8d4f" />
+
 
 ### Customer Analytics
-_Add dashboard screenshot here_
+<img width="1307" height="728" alt="mycustomer" src="https://github.com/user-attachments/assets/a0201f32-a485-4d1e-ae82-6ddf99ff1971" />
+
 
 ### Geography Analytics
-_Add dashboard screenshot here_
+<img width="1298" height="753" alt="mygeo" src="https://github.com/user-attachments/assets/1bc7cb01-1f10-4b86-be58-3702d91a2c85" />
+
 
 ### Returns Analysis
-_Add dashboard screenshot here_
+<img width="1291" height="733" alt="myreturns" src="https://github.com/user-attachments/assets/a07dae4d-74c6-41aa-8a22-73b2ca259d68" />
+
 
 ---
 
